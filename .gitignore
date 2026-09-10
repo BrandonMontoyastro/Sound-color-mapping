@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# --- Extensiones de Audio Originales (Bloqueadas por peso) ---
+*.wav
+*.mp3
+*.ogg
+*.flac
+*.m4a
