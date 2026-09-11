@@ -1,7 +1,7 @@
 # Medellín Soundscape Analysis: Frequency-to-Color Mapping via FFT
 
 **Project Status:** Archived / Completed  
-> **Development Period:** March 2023 – June 2023 *(Academic project)*  
+> **Development Period:** March 2024 – June 2024 *(Academic project)*  
 > **Note:** This repository reflects my early work in experimental data analysis during the first years of my undergraduate studies.
 
 ### Project Overview
